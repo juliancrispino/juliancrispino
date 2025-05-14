@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julián</h1>
 <h3 align="center">A passionate frontend developer student from Mar del Plata, Argentina.</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently working with **Angular 18** and **Java SpringBoot**
 
 - 👨‍💻 All of my projects are available at [http://juliancrispino.netlify.com](http://juliancrispino.netlify.com)
 
